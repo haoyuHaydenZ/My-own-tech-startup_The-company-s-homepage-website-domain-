@@ -1,0 +1,186 @@
+{
+  "about-creators.html": "",
+
+  "creatorsTitleText": "T.E. Creators 团队成员",
+  "creatorsSubtitleText": "在Tales of Echo的团队中，我们见证着年轻一代00后的卓越成就。T.E. Creators这只团队汇聚了来自各个领域的年轻杰出人才。从音乐、美术、影视到商业和传媒领域。他们热情与上进心态塑造了这个集体的独特氛围，成为实现梦想的强大推动力。",
+  
+  "home.html": "",
+
+  "homeTab": "主页",
+  
+  "AiTab": "AI音乐创作工具",
+  "AiMusicTab": "AI音乐创作",
+  "AiSeparateTab": "AI人声/伴奏分离",
+  "AiBreakdownTab": "AI分轨拆解",
+
+  "releaseTab": "发行专辑",
+
+  "productionTab": "音乐/音频制作",
+  "productionOriginalTab": "原创制作",
+  "productionEditingTab": "后期制作",
+  "productionSoundtrackTab": "音频处理",
+
+  "submissionTab": "投稿/申请入驻",
+
+  "proposalTab": "商业方案",
+  "proposalCopyrightTab": "音乐授权",
+  "proposalFilmTab": "光影悦动计划",
+  "proposalCooperationTab": "行业合作",
+
+  "merchandiseTab": "商店",
+
+  "aboutTab": "关于我们",
+  "aboutIntroTab": "简介",
+  "aboutCreatorsTab": "T.E. Creators 制作人",
+  "aboutArtistsTab": "T.E. Artists 艺人",
+
+  "homeAboutTitleText": "新生代独立音乐厂牌",
+  "homeAboutSubtitleText1": "全球最大音乐发行公司之一——Believe Music Distribution旗下音乐厂牌",
+  "homeAboutSubtitleText2": "厂牌围绕 “构建音乐生态” “发现培养新势力音乐人” “追求艺术情感表达” 三大中心理念开展厂牌建设",
+
+  "homeAboutTitle1": "构建音乐生态",
+  "homeAboutContent1": "Tales of Echo致力于构建一个多维度的音乐生态系统，将音乐与各种创意形式、技术手段和文化元素进行融合，创造出一个全新的互动空间。我们强调音乐与其他领域的深度联动，通过跨界合作和创新思维打破传统界限。在这个生态系统中，音乐与视觉艺术、数字科技等多种元素相互交织。我们力求打造一个更加开放、包容和富有创造力的社区，让音乐的每一种可能性都得以展现，激发出更多形式的交流与合作。",
+  
+  "homeAboutTitle2": "发现培养新势力音乐人",
+  "homeAboutContent2": "在Tales of Echo，每一位音乐人都是我们音乐舞台上独一无二的闪耀之星。我们欢迎音乐人主动选择将Tales of Echo作为他们发展的舞台，也鼓励得到我们团队认可的创作者加入我们。Tales of Echo的评审和制作团队将提供个性化的指导，帮助每位音乐人实现梦想。我们相信，任何怀揣理想、对音乐充满热情的创作者，都能在我们的厂牌中获得宝贵的音乐制作学习经验。",
+  
+  "homeAboutTitle3": "追求艺术情感表达",
+  "homeAboutContent3": "在商业化和以量为主的音乐大环境下，Tales of Echo追求的不仅仅是单纯音乐制作，更是每一首曲目背后所蕴含的深沉情感。我们将音乐视为一种情感的表达媒介，是我们与世界沟通的语言。我们努力创造出音乐作品，来传递我们内心深处的情感。在这里，艺术并不停留在技术层面，更是一次次心灵的共振，是对这个世界的深情表白。我们深信，音乐真正的魅力在于它有着触动人心灵的力量。",
+  
+  "homeTop3Title": "TOP 3 单曲",
+
+  "homeTop3ArtistName1": "裔衍",
+  "homeTop3CoverTitle1": "夜中独步",
+
+  "homeTop3ArtistName2": "Subverter",
+  "homeTop3CoverTitle2": "<em>Einzig</em>",
+
+  "homeTop3ArtistName3": "Rinocchio",
+  "homeTop3CoverTitle3": "满月 <em>(Late Night Tequila)</em>",
+
+  "homeHighlightTitle1": "音乐/音频制作",
+  "homeHighlightContent1": "如果您是个性化音乐制作的需求者，我们将深入了解您的音乐愿景，与您共同策划并打磨出独一无二的音乐作品。在提供全套音乐制作的同时，Tales of Echo制作团队也擅长音频处理等特定制作服务，我们都能为您提供全方位的解决方案。",
+  "homeHighlightButton1": "了解更多",
+  
+  "homeHighlightTitle2": "光影悦动计划",
+  "homeHighlightContent2": "围绕构建音乐生态的宗旨​，发掘音乐的无限可能，Tales of Echo开展音乐影视计划（即光影跃动计划）。我们邀请旗下优秀音乐人，携手影视制作团队和剧组，来勾勒出令人心驰神往的影视作品。如果您是影视或者音乐视频爱好者，请点击下方按钮了解更多。",
+  "homeHighlightButton2": "了解更多",
+  
+  "homeHighlightTitle3": "T.E. Artists 申请入驻/投稿",
+  "homeHighlightContent3": "我们欢迎全球音乐创作者的加入！我们鼓励怀有音乐梦想的制作人的加入，让Tales of Echo成为您音乐旅程的引导者，共同书写音乐的未来篇章。无论您是满怀热情的新人，还是经验丰富的制作人，我们都热切期待您的加入，一同创造属于音乐的奇迹。",
+  "homeHighlightButton3": "投稿通道",
+
+  "heroTextContent1": "以态度铸就，以创意演绎，以故事绘制音乐画卷......",
+  "heroTextContent2": "源自对音乐的热爱、对创作的坚守。这种态度不仅体现在音乐本身，也是Tales of Echo与听众之间建立联系的桥梁。书写音乐的故事，构建音乐与听众共鸣和情感共振，使音乐更具有意义和深度。在这个音乐舞台上，我们不满足于平凡，而是追求卓越，挑战传统的束缚。加入我们，让音乐不再是孤独的旋律，而是我们共同创造的艺术之美。",
+
+  "release.html": "",
+
+  "releaseHeaderText": "​发行专辑",
+
+  "aboutIntroTitle": "关于 TALES OF ECHO WORLDWIDE",
+  "aboutIntroSubtitle1": "Tales of Echo Records, 又称Tales of Echo Worldwide, 是由5k·Demons和Subverter于2024年建立的音乐厂牌。",
+  "aboutIntroSubtitle2": "Tales of Echo致力于构建音乐生态，发展培养新势力音乐人，追求艺术情感表达。这是一个通过融合音乐、美术和视频媒体的艺术表达，创造的一个兼具深度和广度的创意领域。",
+  
+  "musicReleaseTitle": "音乐发行",
+  
+  "musicReleaseItemTitle1": "全球直连",
+  "musicReleaseItemContent1": "Tales of Echo Records与全球最大音乐发行公司之一Believe Distribution达成合作，为音乐人提供更专业的发行服务，直连全球200+音乐平台，覆盖230+个国家和地区。",
+  
+  "musicReleaseItemTitle2": "国际合作",
+  "musicReleaseItemContent2": "Tales of Echo与国内外平台保持紧密合作关系，可以为厂牌与艺人提供最优发行条件与最高服务质量。各类营销推广计划优先通道，为您带来更多曝光机会以及平台官方推荐。",
+  
+  "musicReleaseItemTitle3": "推广到位",
+  "musicReleaseItemContent3": "国内外知名传媒、美术院校学生与具有丰富公关经验的成员组成了Tales of Echo的强大宣发团队，我们的宣发包括但不限于封面制作，文案创作，音乐视频制作等线上线下传播。",
+  
+  "musicReleaseItemTitle4": "质量过硬",
+  "musicReleaseItemContent4": "Tales of Echo的审核团队成员包括来自国内外知名音乐院校学生，以及资深乐评人，我们从音乐艺术角度与制作角度对歌曲进行分析，确保所有投稿均可获得专业且全面的反馈。",
+  
+  "musicReleaseItemTitle5": "多元收录",
+  "musicReleaseItemContent5": "Tales of Echo关注并尊重不同音乐文化和创作风格，致力于推动音乐的多样性和创新。我们收录的音乐类型包括但不限于流行，摇滚，电子，说唱，纯音乐等主流风格以及实验、地下风格。",
+  
+  "musicReleaseItemTitle6": "完美生态",
+  "musicReleaseItemContent6": "在与全球最大发行公司之一Believe Distribution达成合作的同时，Tales of Echo已与多家演艺公司、传媒公司以及音乐演出场所合作，拥有完整且独立的音乐产业生态架构，包括音乐制作，音乐唱片，音乐经纪和音乐演出四大板块，为艺人提供专业多方面服务。",
+
+  "buySingle": "购买单曲",
+  "shareSingle": "分享单曲",
+  "getAlbum": "取得专辑",
+  "shareAlbum": "分享专辑",
+  "getTrack": "取得曲目",
+
+  "releaseEinzigTitle": "Einzig",
+  "releaseEinzigArtist": "Subverter / Einzig",
+  "releaseEinzigDesc": "来源于生活以及个人的感想，融合了电子以及电子核等元素。主歌色彩温暖塑造出朦胧的记忆碎片，两段副歌为不同风格，是对生活的宣泄也是对经历的回忆。",
+  "releaseEinzigDedication": "-For Duoduo.",
+
+  "releaseOurJourneyTitle": "Tales of Echo, Our Journey",
+  "releaseOurJourneyDesc1": "这是一次声音的回溯，一场情感的重逢。 Tales of Echo 的首张厂牌合辑《Our Journey》不仅仅是一张专辑，它承载了我们与音乐人好友们一路走来的点滴回忆与创作旅程。每一个音符，都见证了曾经的梦想与坚持，每一首歌，都记载了我们共同跨越的时光。",
+  "releaseOurJourneyDesc2": "这张专辑融合了与厂牌共同成长的音乐人们各自的灵感，他们是朋友亦是家人，更是我们在音乐道路上最重要的同行者。《Our Journey》不仅是对过去的回顾，更是对未来的展望。电子、流行、摇滚、实验音乐等多元素的融合碰撞交织出独属于我们的余音故事！",
+  "releaseOurJourneyIntroTitle": "Our Journey Intro",
+  "releaseOurJourneyArtist": "Subverter / 衰棄 / Our Journey",
+
+  "releaseLNTTitle": "Rinocchio, Late Night Tequila (满月)",
+  "releaseLNTDesc1": "共享满月之夜的蓝调时刻",
+  "releaseLNTDesc2": "我无数次幻想着在满月的夜晚与你成为今后彼此的依靠。 满月之夜一起享受微醺的浪漫惬意，只做今晚的片刻恋人。",
+  "releaseLNTDesc3": "Late Night Tequila历经了Rino一年时间的沉淀和打磨，终于完成了录音和编曲。人们常说爱在月光下完美，而rino将自己心中的爱全部寄托于满月的旋律和音符之中，正如歌词所表达的那样，满月之夜幸福就在我们的指尖。按下播放键，一起享受属于你们的蓝调时刻吧！",
+  "releaseLNTTrackTitle": "Late Night Tequila 满月",
+  "releaseLNTArtist": "Rinocchio / Late Night Tequila (满月)",
+
+  "submissionTitle": "T.E. Artists 入驻申请投稿渠道",
+  "submissionIntro": "在Tales of Echo，我们诚挚邀请充满态度和热情的艺人与乐队加入我们的大家庭。无论你是哪个音乐风格的制作人，我们都敞开大门欢迎你的加入。我们深知新人制作水平参差不齐，但如果你像我们一样，有对音乐的真诚态度和热情，我们将乐于携手助你一臂之力。我们渴望见证并共同打造出耳目一新的音乐作品。",
+  "submissionJoinTitle": "入驻艺人 - T.E. Artists",
+  "submissionJoinSubtitle": "入驻艺人若符合条件，将赋予以下特权",
+  "submissionFeature1": "超多令人兴奋的合作/委托项目",
+  "submissionFeature2": "75%高版税分成",
+  "submissionFeature3": "加入T.E.审核与制作团队",
+  "submissionFeature4": "加入音乐库授权",
+  "submissionFeature5": "更多厂牌内外合作机会",
+  "submissionFeature6": "音乐制作支持",
+  "submissionTypesTitle": "艺人类型",
+  "submissionType1": "歌手",
+  "submissionType2": "乐队",
+  "submissionType3": "制作人",
+  "submissionType3Desc": "（作词、作曲、编曲、录音、混音、母带等）",
+  "submissionType4": "乐器演奏（包括DJ）",
+  "submissionFormTitle": "音乐人入驻申请/投稿渠道",
+  "submissionFormSubtitle": "您可以通过填写下方信息上传demo投稿，也可联系我们的厂牌官方微信（talesofecho2024）或邮箱（welcome@talesofecho.net），并且提供具有较高完成度demo的MP3格式音频或者录音录像等展示个人音乐水平的文件，创作意图（简单描述作品创作想法）以及联系方式，我们的A&R会在第一时间与您进行沟通相关事宜。",
+  "submissionLabelArtistName": "艺名",
+  "submissionLabelEmail": "邮箱",
+  "submissionLabelWechat": "微信号",
+  "submissionLabelIdea": "创作想法",
+  "submissionUploadText": "上传文件 Upload supported file (Max 15MB)",
+  "submissionSendBtn": "发送",
+  "submissionFooterText": "感谢您对Tales of Echo的支持，审核结果将在48小时内发送至邮箱或微信",
+
+  "loginButtonText": "登录",
+  "loginTitle": "登录",
+  "loginSubtitle": "选择登录方式",
+  "loginGoogle": "使用 Google 登录",
+  "loginGuest": "以访客身份继续",
+  "loggingIn": "正在登录...",
+
+  "aboutArtistsTitle": "T.E. Artists 签约艺人",
+  "aboutArtistsIntro": "Tales of Echo非常荣幸能拥有一个优秀且多元的艺人团队，他们来自不同国家，不同年龄段，有着不同的制作风格和对音乐的理解。无论是深入研究音乐理论的音乐专业学生，还是追求自己音乐梦想的业余爱好者，都为Tales of Echo的创作贡献了独特而珍贵的才华和对于音乐艺术热情的态度。这个跨越国界和文化，时间和空间的团队使得Tales of Echo的音乐作品充满了层次和深度。",
+  "artistNameSubverter": "Subverter",
+  "artistRoleSubverter": "作曲、编曲",
+  "artistGenreSubverter": "摇滚/ 电子",
+  "artistLinkSubverter": "艺人页：<a href=\"https://music.163.com/#/artist?id=34235937\" target=\"_blank\">Subverter - 歌手 - 网易云音乐</a>",
+  
+  "artistNameDion": "Dion Chen",
+  "artistRoleDion": "编曲、混音、母带",
+  "artistGenreDion": "电子（Techno、EDM）",
+  "artistLinkDion": "艺人页：<a href=\"https://music.163.com/#/artist?id=48642537\" target=\"_blank\">Dion Chen - 歌手 - 网易云音乐</a>",
+  
+  "artistNameRino": "Rinocchio",
+  "artistRoleRino": "歌手、作词、作曲、编曲",
+  "artistGenreRino": "流行/ 说唱",
+  "artistLinkRino": "艺人页：<a href=\"https://music.163.com/#/artist?id=34500861\" target=\"_blank\">Rinocchio - 歌手 - 网易云音乐</a>",
+  
+  "artistNameLiu": "刘家菡",
+  "artistRoleLiu": "歌手、作词",
+  "artistGenreLiu": "流行/ 国语",
+  
+  "artistName5k": "5k·Demons",
+  "artistRole5k": "作曲、编曲",
+  "artistGenre5k": "流行/ 电子/ 摇滚 / 交响",
+  "artistLink5k": "艺人页：<a href=\"https://music.163.com/#/artist?id=36696116\" target=\"_blank\">5k·Demons - 歌手 - 网易云音乐</a>"
+}
